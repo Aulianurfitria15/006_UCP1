@@ -4,3 +4,6 @@ DATABASE
 DELETE
 <img width="1920" height="1200" alt="DELETE - UCP" src="https://github.com/user-attachments/assets/454b27e3-1d2d-44df-8e32-a6fbf1432884" />
 
+GET
+<img width="1920" height="1200" alt="GET-UCP" src="https://github.com/user-attachments/assets/75775097-2275-4ba9-ab74-64d300519582" />
+
