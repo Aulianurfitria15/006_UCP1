@@ -10,4 +10,5 @@ GET
 POST 
 <img width="1920" height="1200" alt="POST-UCP" src="https://github.com/user-attachments/assets/3a930f9d-5f6c-422d-a499-b033d3f3c2d5" />
 
-
+PUT
+<img width="1920" height="1200" alt="PUT-UCP" src="https://github.com/user-attachments/assets/c5c9a9e9-5e54-4377-9167-8c981eb1724a" />
